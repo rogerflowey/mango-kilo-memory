@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "[Kilo-memory] *" > "$MANGO_FOLDER_PATH/.instructions"

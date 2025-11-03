@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#create the kilocode folder if non existent
+mkdir -p "$MANGO_USER_PATH/.kilocode/rules/memory-bank/"
+
+#download the memory bank instructions
+wget -O "$MANGO_USER_PATH/.kilocode/rules/memory-bank-instructions.md" "https://kilocode.ai/docs/downloads/memory-bank.md"
