@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "[mango-kilo-memory] *" > "$MANGO_REPO_PATH/.mango/.instructions"
+echo "[mango-kilo-memory] *" >> "$MANGO_REPO_PATH/.mango/.instructions"
